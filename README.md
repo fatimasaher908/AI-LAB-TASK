@@ -1,2 +1,2 @@
 # AI-LAB-TASK
-AI
+Basic Python Code | Searching Algorithms| Machine Learning| Deep Learning
